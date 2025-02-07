@@ -14,7 +14,7 @@
 ```
 ollama run llama3.3
 ```
-- Slow with RTX 4090
+- This is 70B and slow with RTX 4090
 
   
 </details>
