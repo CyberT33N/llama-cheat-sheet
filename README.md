@@ -53,6 +53,7 @@ ___
 <details><summary>Click to expand..</summary>
 
 
+
 # Ollama
 
 ## llama 3.1 - 8b (Q4_K_M)
@@ -62,8 +63,22 @@ ollama run llama3.1:8b
 ```
 - Works with RTX 4090
 
+<br><br>
+
+
+## llama3.1-8b-abliterated (Q4_0)
+- https://ollama.com/library/llama3.1
+```
+ollama run mannix/llama3.1-8b-abliterated
+```
+- Works with RTX 4090
+
+
+
   
 </details>
+
+
 
 
 
